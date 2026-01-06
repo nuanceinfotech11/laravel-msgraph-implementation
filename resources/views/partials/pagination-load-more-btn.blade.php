@@ -1,0 +1,1 @@
+<a href="javascript:void(0);"  class="btn btn-primary loadmore {{ $classhide }}" data-pageno="{{ $pageno }}">{{ __('Read More') }}</a>
